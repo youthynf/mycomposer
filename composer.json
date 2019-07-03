@@ -1,0 +1,11 @@
+{
+    "name": "youthynf/mycomposer",
+    "description": "this is a test",
+    "authors": [
+        {
+            "name": "yannengfa",
+            "email": "940436475@qq.com"
+        }
+    ],
+    "require": {}
+}
